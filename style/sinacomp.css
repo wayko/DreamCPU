@@ -1,0 +1,146 @@
+body {
+    background: #1e5799; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #1e5799 0%, #2989d8 50%, #207cca 51%, #81efa8 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#1e5799), color-stop(50%,#2989d8), color-stop(51%,#207cca), color-stop(100%,#81efa8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(-45deg, #1e5799 0%,#2989d8 50%,#207cca 51%,#81efa8 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(-45deg, #1e5799 0%,#2989d8 50%,#207cca 51%,#81efa8 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(-45deg, #1e5799 0%,#2989d8 50%,#207cca 51%,#81efa8 100%); /* IE10+ */
+background: linear-gradient(135deg, #1e5799 0%,#2989d8 50%,#207cca 51%,#81efa8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#81efa8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+.wrapper {
+    margin: 0 auto;
+    width: 960px;
+}
+.content {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 5px 5px 5px 5px #000000;
+    height: 500px;
+    margin: 0 0 0 162px;
+    overflow: auto;
+    width: 630px;
+}
+.footer {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 5px 5px 5px 5px #000000;
+    height: 115px;
+    margin: 0 auto;
+    overflow: auto;
+    width: 630px;
+}
+
+.tab1 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 35px;
+    margin-left: 163px;
+    margin-top: 10px;
+    overflow: auto;
+    width: 60px;
+}
+.tab2 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 35px;
+    margin-left: 230px;
+    margin-top: -39px;
+    overflow: auto;
+    width: 80px;
+}
+.tab3 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 35px;
+    margin-left: 317px;
+    margin-top: -39px;
+    overflow: auto;
+    width: 80px;
+}
+.tab4 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 35px;
+    margin-left: 404px;
+    margin-top: -39px;
+    overflow: auto;
+    width: 120px;
+}
+.tab5 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 35px;
+    margin-left: 532px;
+    margin-top: -39px;
+    overflow: auto;
+    width: 80px;
+}
+.tab6 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 35px;
+    margin-left: 620px;
+    margin-top: -39px;
+    overflow: auto;
+    width: 80px;
+}
+.tab7 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 35px;
+    margin-left: 708px;
+    margin-top: -39px;
+    overflow: auto;
+    width: 80px;
+}
+.header {
+    color: #FFFFFF;
+    font-size: 70px;
+    height: 100px;
+    width: 940px;
+}
+.tabhover:hover {
+    color: red;
+    cursor: pointer;
+}
+.rightside{
+float:right;
+background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 5px 5px 5px 5px #000000;
+    height: 500px;
+    overflow: auto;
+	width: 145px;
+}
+.footer1 {
+    margin-top: 40px;
+}
+.subli{
+font-size:small;
+margin-left: 10px;
+list-style: square;
+}

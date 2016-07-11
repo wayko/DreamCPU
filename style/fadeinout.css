@@ -1,0 +1,32 @@
+.wrapper{
+	width: 940px;
+	margin: 0 auto;	
+	border: 2px solid white;
+	height: 600px;
+}
+.content{
+	margin: 0 0;
+}
+.lside{
+	float:left;
+	width:320px;
+	border-right: 2px dotted white;
+	height:600px;
+
+}
+li{
+	list-style:none;
+}
+.lside li{
+	margin-bottom: 10px;
+}
+.alinks:link {
+	text-decoration:none;
+	color:#000000;
+}
+.alinks:visited {text-decoration:none;color:#000000;}
+.alinks:hover {text-decoration:none;color:#000000;}
+.alinks:active {text-decoration:none;color:#000000;}
+p.scn{
+	font-size: 60px;
+}
